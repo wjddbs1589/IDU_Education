@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6dab46d180845409be0169d25b0482, type: 3}
+  m_Name: Custom Data
+  m_EditorClassIdentifier: 
+  Chanhee_Sprite_H:
+  - {fileID: 21300000, guid: c7f801f1c4d3bdd42b0f744b8f73e20c, type: 3}
+  - {fileID: 21300000, guid: d951dcee342e23d40bd08b62552e4ce7, type: 3}
+  - {fileID: 21300000, guid: 339c7e19d9482b0448a236de112eeb4f, type: 3}
+  Chanhee_Sprite_B:
+  - {fileID: 21300000, guid: d215ddd1cf1442f4e9d4610399dd2f98, type: 3}
+  - {fileID: 21300000, guid: 4467e566b0b285d478c719bbfce49875, type: 3}
+  - {fileID: 21300000, guid: b688fa5a5cfccbb488e8df50ca651f89, type: 3}
+  Chanhee_Sprite_P:
+  - {fileID: 21300000, guid: 25618e7d7065ada4fa3addd957c17a22, type: 3}
+  - {fileID: 21300000, guid: 75f1bccf8547fdc458505f71ae7da9b7, type: 3}
+  - {fileID: 21300000, guid: 02d319c8eaaae664fb00f6162b3c264f, type: 3}
+  Chanhee_Sprite_F:
+  - {fileID: 21300000, guid: a985ad27ad471864395916ae7de85476, type: 3}
+  - {fileID: 21300000, guid: f1146788cd995604e8970ad388f47cf2, type: 3}
+  - {fileID: 21300000, guid: 4991e4f5af530e744aee8aa5174c9c0b, type: 3}
+  Chanhee_Sprite_A: []
+  Gayeong_Sprite_H:
+  - {fileID: 21300000, guid: bda88424f2881d64c89da09e8215a4ab, type: 3}
+  - {fileID: 21300000, guid: ec2134ead3400af4181017c607e2d0b4, type: 3}
+  - {fileID: 21300000, guid: 0cfd283ce6dc3fa44995b1bd003d9fca, type: 3}
+  Gayeong_Sprite_B:
+  - {fileID: 21300000, guid: a321f57cb8bad0f4db7cbe4300fe51be, type: 3}
+  - {fileID: 21300000, guid: 9c66e30bf661c3940ad8633beec5b98a, type: 3}
+  - {fileID: 21300000, guid: 86e93dc6f678c45428b1bee09e157990, type: 3}
+  Gayeong_Sprite_P:
+  - {fileID: 21300000, guid: 19ebc2db9eeb926499c6bbae63cb3f41, type: 3}
+  - {fileID: 21300000, guid: 2817ef34f6e70a849b5159dac0d31441, type: 3}
+  - {fileID: 21300000, guid: decc838b11a762d4da8e2d34273dc081, type: 3}
+  Gayeong_Sprite_F:
+  - {fileID: 21300000, guid: 01df5fe124998214cab1d7a14436fe23, type: 3}
+  - {fileID: 21300000, guid: f39c933f4549cb941b37778c32a19fec, type: 3}
+  - {fileID: 21300000, guid: bb0f3d73a0a697940a99f12704763fdd, type: 3}
+  Gayeong_Sprite_A:
+  - {fileID: 21300000, guid: 9104629250fa3c94c9c4e4ab1eded22b, type: 3}
+  - {fileID: 21300000, guid: 99dbcb611f658da4e83c1b809d7c159d, type: 3}
+  - {fileID: 21300000, guid: f233b74aaa1d5ee4889f60c9de2e70df, type: 3}
+  Haejin_Sprite_H:
+  - {fileID: 21300000, guid: 5d1f8f9017785d64dbfd760bacf2cee3, type: 3}
+  - {fileID: 21300000, guid: ec9f54122877c5d4ba899392525cff57, type: 3}
+  - {fileID: 21300000, guid: 2b4edda599bd62a4aa4b974577b34ac6, type: 3}
+  Haejin_Sprite_B:
+  - {fileID: 21300000, guid: beecacb746752eb46a09c43dbb68257b, type: 3}
+  - {fileID: 21300000, guid: 3cafae7ec274e064095a8467732522df, type: 3}
+  - {fileID: 21300000, guid: 8bf54ccadcce2f64ebb2e5d7d799d709, type: 3}
+  Haejin_Sprite_P:
+  - {fileID: 21300000, guid: 89bbae96ac83ed045afd80f8d809955c, type: 3}
+  - {fileID: 21300000, guid: 898a62ba31bf62c489f61ecf1fdae86e, type: 3}
+  - {fileID: 21300000, guid: 05807f9435e70284f861355764e52c64, type: 3}
+  Haejin_Sprite_F:
+  - {fileID: 21300000, guid: 8478b7758cc8e7d4aa5b3cb1edc598cf, type: 3}
+  - {fileID: 21300000, guid: 988a34f7c1d0e6147a66e86587b10fd6, type: 3}
+  - {fileID: 21300000, guid: 0c2c3bcb3fffe6a4fa03f0fc745b36ea, type: 3}
+  Haejin_Sprite_A: []
+  Hana_Sprite_H:
+  - {fileID: 21300000, guid: c247e7b3b66e2b445973fcc96c54f2e7, type: 3}
+  - {fileID: 21300000, guid: ede01be98e08d0b4791ab16d47d2f8ec, type: 3}
+  - {fileID: 21300000, guid: 52c8d7bc9f921e34db62071078c89557, type: 3}
+  Hana_Sprite_B:
+  - {fileID: 21300000, guid: f182a818c6dcb5f479aac4bf8ab5bfde, type: 3}
+  - {fileID: 21300000, guid: a0616ef6be733454487035d33bef0b18, type: 3}
+  - {fileID: 21300000, guid: 1f9060b7b2fac694d86468f6fab66bf9, type: 3}
+  Hana_Sprite_P:
+  - {fileID: 21300000, guid: b94f73e7bc2739240883c5729e17254a, type: 3}
+  - {fileID: 21300000, guid: bc18dcd45ad0a984bbcb8b8650b70eda, type: 3}
+  Hana_Sprite_F:
+  - {fileID: 21300000, guid: b85a4d9f2bde0c04da5146c3f977d78c, type: 3}
+  - {fileID: 21300000, guid: f8ee7a826d76d154d91ae78973e74971, type: 3}
+  - {fileID: 21300000, guid: 1469c40cac271cc4d99ac28b7b3c56f1, type: 3}
+  Hana_Sprite_A:
+  - {fileID: 21300000, guid: 695a7ff79702bc94cbef3d4de7f24708, type: 3}
+  - {fileID: 21300000, guid: 236c1b5fed862514b9dd33355bb6b656, type: 3}
